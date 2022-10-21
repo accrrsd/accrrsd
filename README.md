@@ -1,6 +1,6 @@
 <h1 align="center">Привет 👋, меня зовут Даниил</h1>
 <!-- image -->
-<p align="center"><img alt="coding-gif" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="700" height="400"/></p>
+<p align="center"><img alt="coding-gif" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="1000" height="562.5"/></p>
 <h4 align="right">Я Junior Frontend-разработчик из Санкт-Петербурга</h3>
 
 <!-- targets -->
@@ -49,7 +49,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=accrrsd&layout=compact&theme=midnight-purple" />
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=accrrsd&show_icons=true&theme=midnight-purple&hide=issues&line_height=24"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=accrrsd&show_icons=true&theme=midnight-purple&hide=issues&line_height=24&card_width=350"/>
   </span>
 </div>
 

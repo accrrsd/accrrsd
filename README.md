@@ -1,6 +1,6 @@
 <h1 align="center">Привет 👋, меня зовут Даниил</h1>
 <!-- image -->
-<p align="center"><img alt="coding-gif" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="1000" height="600"/></p>
+<p align="center"><img alt="coding-gif" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="700" height="400"/></p>
 <h4 align="right">Я Junior Frontend-разработчик из Санкт-Петербурга</h3>
 
 <!-- targets -->
@@ -48,7 +48,6 @@
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=accrrsd&layout=compact&theme=midnight-purple" />
   </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=accrrsd&show_icons=true&theme=midnight-purple&hide=issues&line_height=24"/>
   </span>
@@ -73,7 +72,7 @@
 
 <!-- hobby's -->
 <details align="right">
-<summary><h4>Мои хобби<h4></summary>
+<summary><h4>Мои хобби 🔖<h4></summary>
 Я увлекаюсь компьютерным "железом"<br>
 Мне интересны новейшие технологии в области информатики.<br>
 За едой я смотрю шахматные турниры, сериалы и аниме.<br>
@@ -85,7 +84,7 @@
 
 <!-- motivation -->
 <details align="center">
-<summary><h4>Мотивация<h4></summary>
+<summary><h4>Мотивация 🏋️‍♂️<h4></summary>
 Программирование и компьютеры в целом, штука для меня интересная.<br>
 Я очень надеюсь застать будущее, в котором IT сфера будет даже больше и доступнее, чем сейчас.<br>
 Создание роботов или искусственного интеллекта будет обычным делом для любого программиста<br>

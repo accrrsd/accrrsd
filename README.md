@@ -1,6 +1,6 @@
 <h1 align="center">Привет 👋, меня зовут Даниил</h1>
 <!-- image -->
-<p align="center"><img alt="coding-gif" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="700" height="393,75"/></p>
+<p align="center"><img alt="coding-gif" src="./src/gif/coding.gif" width="700" height="393,75"/></p>
 <h4 align="right">Я Junior Frontend-разработчик из Санкт-Петербурга</h3>
 
 <!-- targets -->
@@ -61,10 +61,10 @@
 <div align="left">
 <h3 align="">Связаться со мной 🤙:</h3>
 <br>
-<a href="discordapp.com/users/341649531219214338" target="_blank"><img src="./src/logo/discord.svg" alt="discord" width="50"/></a>
+<a href="https://discordapp.com/users/341649531219214338" target="_blank"><img src="./src/logo/discord.svg" alt="discord" width="50"/></a>
 &nbsp;
 &nbsp;
-<a href="mailto:kashel369@bk.ru&subject=Привет с гитхаба!" target="_blank"><img src="./src/logo/mail.svg" alt="mailRu" width="50"></a>
+<a href="mailto:kashel369@bk.ru" target="_blank"><img src="./src/logo/mail.svg" alt="mailRu" width="50"></a>
 &nbsp;
 &nbsp;
 <a href="https://steamcommunity.com/id/accrrsd/" target="_blank"><img src="./src/logo/steam.svg" alt="steam" width="50"></a>

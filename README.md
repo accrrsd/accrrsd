@@ -59,7 +59,7 @@
 <h2 align="left">Обо мне:</h2>
 <!-- call links -->
 <div align="left">
-<h3 align="">🤙 Связаться со мной</h3>
+<h3 align="">👇🤙 Связаться со мной</h3>
 <br>
 <a href="https://discordapp.com/users/341649531219214338" target="_blank"><img src="./src/logo/discord.svg" alt="discord" width="50"/></a>
 &nbsp;

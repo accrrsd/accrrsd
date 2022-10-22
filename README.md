@@ -68,6 +68,9 @@
 &nbsp;
 &nbsp;
 <a href="https://steamcommunity.com/id/accrrsd/" target="_blank"><img src="./src/logo/steam.svg" alt="steam" width="50"></a>
+
+<span>Почта для работы - kashel369@bk.ru</span>
+
 <div>
 
 <!-- hobby's -->

@@ -72,7 +72,7 @@
 &nbsp;
 <a href="https://t.me/accrrsd" target="_blank"><img src="./src/logo/telegram.png" alt="telegram" width="50"></a>
 
-<span>Почта для работы - kashel369@bk.ru</span>
+<span>Почта - kashel369@bk.ru</span>
 
 <div>
 

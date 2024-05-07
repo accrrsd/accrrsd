@@ -24,7 +24,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Nextjs-282C34?logo=Next.js&logoColor=black" alt="Nextjs logo" title="Nextjs" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
@@ -34,9 +36,16 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=Three.js&logoColor=F7DF1E" alt="Three.js logo" title="Three.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Lua-282C34?logo=lua&logoColor=007ACC" alt="Lua logo" title="Lua" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/csharp-282C34?logo=csharp&logoColor=007ACC" alt="C# logo" title="c#" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Godot-282C34?logo=godotengine&logoColor=007ACC" alt="godot logo" title="Godot" height="25" /></span>
+&nbsp;
 </div>
 
 <br>
